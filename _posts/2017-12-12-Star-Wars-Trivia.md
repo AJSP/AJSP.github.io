@@ -8,7 +8,7 @@ tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](another-page).
+[Link to another page]<a href = "https://ajsp.github.io/StarWarsTriviaGame/">(another-page).
 
 There should be whitespace between paragraphs.
 
