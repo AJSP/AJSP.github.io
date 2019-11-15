@@ -6,8 +6,8 @@ description: Test your Star Wars Knowledge in this intermediate quiz game
 tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-<a href = "https://ajsp.github.io/StarWarsTriviaGame/"> [Star Wars Trivia]
+
+<a href = "https://ajsp.github.io/StarWarsTriviaGame/"> <h3><center>Star Wars Trivia Game</center></h3>
 
 
 ### Small image
