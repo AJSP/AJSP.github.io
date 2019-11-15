@@ -11,6 +11,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 ### Small image
+Test your Star Wars Knowledge in this intermediate quiz game
 <img src= "assets/img/Star wars screenshot.png">
 
 
