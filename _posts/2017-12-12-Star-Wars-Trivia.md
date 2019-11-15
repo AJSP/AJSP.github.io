@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ### Small image
 
-img src= "Star wars screenshot.png" (https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+img src= "Star wars screenshot.png"
 
 ### Large image
 
