@@ -11,7 +11,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 ### Small image
-
+assets/img/Star wars screenshot.png
 <img src= "Star wars screenshot.png" alt= "SW Screenshot";>
 
 ### Large image
