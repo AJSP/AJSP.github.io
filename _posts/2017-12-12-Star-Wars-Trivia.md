@@ -12,6 +12,7 @@ tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 
 
 <h3>Test your Star Wars Knowledge in this intermediate quiz</h3>
+*Question 10 is bugged and will not hightlight the correct answer
 <img src= "assets/img/Star wars screenshot.png">
 
 
