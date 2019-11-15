@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 ### Small image
 
-img src= "Star wars screenshot.png"
+img src= "Star wars screenshot.png" alt= ;"SW Screenshot"
 
 ### Large image
 
