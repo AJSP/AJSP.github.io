@@ -15,14 +15,3 @@ tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 <img src= "assets/img/Star wars screenshot.png">
 
 
-
-
-
-
-
-
-```
-
-```
-The final element.
-```
