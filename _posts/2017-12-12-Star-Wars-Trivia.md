@@ -7,7 +7,7 @@ tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 ---
 
 
-<a href = "https://ajsp.github.io/StarWarsTriviaGame/"> <h3><center>Star Wars Trivia Game</center></h3>
+<a href = "https://ajsp.github.io/StarWarsTriviaGame/"> <h2><center>Star Wars Trivia Game</center></h2>
 
 
 ### Small image
