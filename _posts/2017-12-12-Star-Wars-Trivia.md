@@ -11,7 +11,7 @@ tags: (Trivia, Star Wars Trivia, Javascript, Tumult Hype, Games)
 
 
 ### Small image
-Test your Star Wars Knowledge in this intermediate quiz game
+<h3>Test your Star Wars Knowledge in this intermediate quiz game</h3>
 <img src= "assets/img/Star wars screenshot.png">
 
 
